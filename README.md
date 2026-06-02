@@ -2,7 +2,7 @@
 
 A Home Assistant custom integration that provides real-time electricity market data from the Southpool energy exchange for Hungary, Serbia, and Slovenia.
 
-![BSP SouthPool logo](https://raw.githubusercontent.com/MysteriousWolf/southpool-hacs/main/resources/logo.svg)
+![BSP SouthPool logo](https://raw.githubusercontent.com/MysteriousWolf/southpool-hass/main/resources/logo.svg)
 
 [![HACS Custom][hacs_shield]][hacs]
 [![GitHub Release][releases-shield]][releases]
@@ -25,12 +25,12 @@ A Home Assistant custom integration that provides real-time electricity market d
 
 ### HACS (Recommended)
 
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=MysteriousWolf&repository=southpool-hacs)
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=MysteriousWolf&repository=southpool-hass)
 
 Or manually:
 
 1. HACS → Integrations → ⋮ → Custom repositories
-2. Add: `https://github.com/MysteriousWolf/southpool-hacs`
+2. Add: `https://github.com/MysteriousWolf/southpool-hass`
 3. Download "Southpool Energy Exchange Integration"
 4. Restart Home Assistant
 
@@ -83,8 +83,8 @@ All price sensors include 48-hour forecasts in their `forecast_48h` attribute:
 
 ## Support
 
-- [Issues](https://github.com/MysteriousWolf/southpool-hacs/issues)
-- [Discussions](https://github.com/MysteriousWolf/southpool-hacs/discussions)
+- [Issues](https://github.com/MysteriousWolf/southpool-hass/issues)
+- [Discussions](https://github.com/MysteriousWolf/southpool-hass/discussions)
 
 ## License
 
@@ -115,7 +115,7 @@ SEEPEX, or HUPX.
 
 [hacs]: https://hacs.xyz
 [hacs_shield]: https://img.shields.io/badge/HACS-Custom-blue.svg
-[releases-shield]: https://img.shields.io/github/release/MysteriousWolf/southpool-hacs.svg
-[releases]: https://github.com/MysteriousWolf/southpool-hacs/releases
-[commits-shield]: https://img.shields.io/github/commit-activity/y/MysteriousWolf/southpool-hacs.svg
-[commits]: https://github.com/MysteriousWolf/southpool-hacs/commits/main
+[releases-shield]: https://img.shields.io/github/release/MysteriousWolf/southpool-hass.svg
+[releases]: https://github.com/MysteriousWolf/southpool-hass/releases
+[commits-shield]: https://img.shields.io/github/commit-activity/y/MysteriousWolf/southpool-hass.svg
+[commits]: https://github.com/MysteriousWolf/southpool-hass/commits/main

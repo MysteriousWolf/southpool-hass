@@ -2,7 +2,7 @@
 Custom integration to integrate Southpool with Home Assistant.
 
 For more details about this integration, please refer to
-https://github.com/mysteriouswolf/southpool-hacs
+https://github.com/mysteriouswolf/southpool-hass
 """
 
 from __future__ import annotations

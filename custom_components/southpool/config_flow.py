@@ -1,4 +1,4 @@
-"""Adds config flow for Southpool HACS."""
+"""Adds config flow for Southpool."""
 
 from __future__ import annotations
 

@@ -31,4 +31,4 @@ users. The full terms governing the source website
 
 If you are a rights holder and would like these assets removed or the
 attribution amended, please open an issue at
-<https://github.com/MysteriousWolf/southpool-hacs/issues>.
+<https://github.com/MysteriousWolf/southpool-hass/issues>.
